@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # 🚀 Lokesh Dammalapati - Data Science Portfolio  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lokeshd1999)  
