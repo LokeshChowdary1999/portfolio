@@ -34,7 +34,7 @@
 ✔️ Optimized CNN architecture for **faster and more accurate detection**  
 ✔️ **Potential Real-World Impact**: Could assist **ophthalmologists** in diagnosing diseases more efficiently  
 🛠 **Tools:** TensorFlow, OpenCV, Python  
-🔗 [View Project](#)  
+🔗 [View Project](https://github.com/LokeshChowdary1999/Eye-Disease-Image-Classification)  
 
 ---
 
@@ -46,7 +46,7 @@
 ✔️ Real-time processing enables **instant identification** in security cameras  
 ✔️ **Potential Real-World Use Case**: Can help law enforcement detect suspects in public spaces  
 🛠 **Tools:** PyTorch, OpenCV, YOLO  
-🔗 [View Project](#)  
+🔗 [View Project](https://github.com/LokeshChowdary1999/Sunglasses-Cap-Detection)  
 
 ---
 
@@ -70,7 +70,7 @@
 ✔️ Achieved **88% accuracy** on the **Quora Question Pairs dataset**  
 ✔️ **Potential Real-World Use Case**: Can be used in **Google Search, AI Chatbots, and Plagiarism Detection Systems**  
 🛠 **Tools:** TensorFlow, Hugging Face Transformers, BERT  
-🔗 [View Project](https://github.com/LokeshChowdary1999/Paraphrase-Identification-Deep-Learning)
+🔗 [View Project](https://github.com/LokeshChowdary1999/Paraphrase-Identification-Deep-Learning)  
 
 ---
 
@@ -80,9 +80,9 @@
 ---
 
 ## 📞 **Contact Me**  
-📧 **Email:** [lokeshd01091999@gmail.com](mailto:lokesh.chowdary.tech@gmail.com)  
+📧 **Email:** [lokesh.chowdary.tech@gmail.com](mailto:lokesh.chowdary.tech@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/lokeshd1999](https://linkedin.com/in/lokeshd1999)  
-💻 **GitHub:** [github.com/lokeshdammalapati](https://github.com/LokeshChowdary1999)  
+💻 **GitHub:** [github.com/LokeshChowdary1999](https://github.com/LokeshChowdary1999)  
 
 ---
 
