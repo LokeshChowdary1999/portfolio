@@ -30,6 +30,7 @@ header_pages:
 
 # Plugins (for SEO and analytics)
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
