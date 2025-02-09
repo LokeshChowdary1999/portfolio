@@ -1,1 +1,55 @@
+# Site settings
+title: "Lokesh Dammalapati"
+logo: "/assets/img/profile.png"  # Add your profile picture
+description: "Data Science & Machine Learning Portfolio"
+url: "https://lokeshdammalapati.github.io"  # Replace with your GitHub Pages URL
+baseurl: ""  # Keep this empty unless your site is in a subdirectory
+
+# Theme settings
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"  # You can use other skins like "dark", "air", etc.
+search: true  # Enable site search
+
+# Author details
+author:
+  name: "Lokesh Dammalapati"
+  avatar: "/assets/img/profile.png"
+  bio: "Data Science | Machine Learning | AI Enthusiast"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/LokeshChowdary1999"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/lokeshd1999"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:lokesh.chowdary.tech@gmail.com"
+
+# Plugins (for SEO and analytics)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+
+# Navigation (Top menu links)
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+  - resume.md
+
+# Footer settings
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://linkedin.com/in/lokeshd1999"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/lokeshd1999"
+
 
