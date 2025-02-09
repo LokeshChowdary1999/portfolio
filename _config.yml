@@ -2,13 +2,13 @@
 # Site settings
 title: "Lokesh Dammalapati"
 description: "Data Science Portfolio"
-logo: "/assets/img/profile.png"  # Optional profile picture
+logo: "/assets/profile.jpg"  # Optional profile picture
 theme: jekyll-theme-minimal
   
 # Author details
 author:
   name: "Lokesh Dammalapati"
-  avatar: "/assets/img/profile.png"
+  avatar: "/assets/profile.jpg"
   bio: "Data Science | Machine Learning | AI Enthusiast"
   links:
     - label: "GitHub"
