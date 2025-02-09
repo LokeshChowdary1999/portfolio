@@ -2,30 +2,8 @@
 layout: single
 title: "Lokesh Dammalapati - Data Science Portfolio"
 permalink: /
+css: "/assets/style.css"
 ---
-
-<style>
-  /* Background and profile styling */
-  body {
-    background: url('/assets/background.jpg') no-repeat center center fixed;
-    background-size: cover;
-    color: white;
-  }
-  .profile-pic {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    display: block;
-    margin: 20px auto;
-  }
-  .nav-link {
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px;
-    color: white;
-  }
-</style>
-
 # 🚀 Lokesh Dammalapati - Data Science Portfolio  
 
 <img src="/assets/profile.jpg" alt="Lokesh Dammalapati" class="profile-pic">
