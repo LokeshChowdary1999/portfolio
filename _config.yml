@@ -1,15 +1,10 @@
 # Site settings
+# Site settings
 title: "Lokesh Dammalapati"
-logo: "/assets/img/profile.png"  # Add your profile picture
-description: "Data Science & Machine Learning Portfolio"
-url: "https://lokeshdammalapati.github.io"  # Replace with your GitHub Pages URL
-baseurl: ""  # Keep this empty unless your site is in a subdirectory
-
-# Theme settings
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"  # You can use other skins like "dark", "air", etc.
-search: true  # Enable site search
-
+description: "Data Science Portfolio"
+logo: "/assets/img/profile.png"  # Optional profile picture
+theme: jekyll-theme-minimal
+  
 # Author details
 author:
   name: "Lokesh Dammalapati"
@@ -34,13 +29,13 @@ plugins:
   - jekyll-archives
   - jekyll-paginate
 
-# Navigation (Top menu links)
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - contact.md
-  - resume.md
+# # Navigation (Top menu links)
+# header_pages:
+#   - index.md
+#   - about.md
+#   - projects.md
+#   - contact.md
+#   - resume.md
 
 # Footer settings
 footer:
