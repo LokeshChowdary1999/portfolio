@@ -1,0 +1,30 @@
+body {
+  background: url('/assets/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.profile-pic {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+  border: 5px solid white;
+}
+
+.section {
+  padding: 50px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+a {
+  color: yellow;
+  font-weight: bold;
+}
