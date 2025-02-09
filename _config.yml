@@ -1,42 +1,25 @@
 # Site settings
 title: "Lokesh Dammalapati"
 description: "Data Science Portfolio"
-logo: "/assets/profile.jpg"  # Optional profile picture
-theme: jekyll-theme-minimal  # New professional theme
+logo: "/assets/profile.jpg"  # Profile image path
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Author details
-author:
-  name: "Lokesh Dammalapati"
-  avatar: "/assets/profile.jpg"
-  bio: "Data Science | Machine Learning | AI Enthusiast"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/LokeshChowdary1999"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/lokeshd1999"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:lokesh.chowdary.tech@gmail.com"
+# Navigation (One-Page Scroll Links)
+header_pages: []
 
-# Navigation (Top menu links)
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - contact.md
-  - resume.md
-
-# Plugins (for SEO and analytics)
+# Plugins
 plugins:
-  #- jekyll-include-cache
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-archives
   - jekyll-paginate
-  - jekyll-remote-theme  # Required for Minimal Mistakes theme
+  - jekyll-remote-theme
+  - jekyll-include-cache  
+
+# Custom Styling (CSS)
+custom_css: "/assets/style.css"
 
 # Footer settings
 footer:
